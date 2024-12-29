@@ -6,9 +6,9 @@ The visualizer typically presents a graphical representation of a dataset, such 
 
 Some common sorting algorithms that are often visualized include:
 
-Bubble Sort
-Selection Sort
-Insertion Sort
-Quick Sort
+1.Bubble Sort
+2.Selection Sort
+3.Insertion Sort
+4.Quick Sort
 
 Users can typically interact with the visualizer by selecting different algorithms, adjusting the size of the dataset, or modifying other parameters to see how the sorting process changes. Sort visualizers are often used in educational settings to help students understand sorting algorithms and their performance characteristics better. They can also be valuable tools for developers and computer science enthusiasts seeking to explore and compare different sorting techniques.
