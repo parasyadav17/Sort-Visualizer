@@ -10,4 +10,5 @@ Bubble Sort
 Selection Sort
 Insertion Sort
 Quick Sort
+
 Users can typically interact with the visualizer by selecting different algorithms, adjusting the size of the dataset, or modifying other parameters to see how the sorting process changes. Sort visualizers are often used in educational settings to help students understand sorting algorithms and their performance characteristics better. They can also be valuable tools for developers and computer science enthusiasts seeking to explore and compare different sorting techniques.
